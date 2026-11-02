@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently deep-diving into **Low-level C/C++, React JS, and Laravel**
 - 👯 I’m looking to collaborate on **enterprise-level projects and innovative web solutions**
-- 📫 Reach me at: **dawndawn074@gmail.com**
+- 📫 Reach me at: **abdellahnsila42@gmail.com**
 - ⚡ Fun fact: **It’s all 0’s and 1’s (and sometimes memory leaks)**
 
 ---
