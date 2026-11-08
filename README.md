@@ -12,12 +12,12 @@
 
 <!-- Row 1: contact links and affiliations -->
 <p align="center">
-  <a href="https://linkedin.com/in/abdellah-nsila-149ba0439"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:abdellahnsila42@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portfolio-eight-mocha-82.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.42network.org/"><img src="https://img.shields.io/badge/42_Network-000000?style=flat-square&logo=42&logoColor=white" alt="42 Network" /></a>
-  <a href="https://1337.ma/"><img src="https://img.shields.io/badge/1337-000000?style=for-the-badge&logo=1337&logoColor=white" alt="1337" /></a>
-  <a href="https://um6p.ma/"><img src="https://img.shields.io/badge/UM6P-F37021?style=for-the-badge&logo=um6p&logoColor=white" alt="UM6P" /></a>
+  <a href="https://linkedin.com/in/abdellah-nsila-149ba0439"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank" /></a>
+  <a href="mailto:abdellahnsila42@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" target="_blank" /></a>
+  <a href="https://portfolio-eight-mocha-82.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" target="_blank" /></a>
+  <a href="https://www.42network.org/"><img src="https://img.shields.io/badge/42_Network-000000?style=flat-square&logo=42&logoColor=white" alt="42 Network" target="_blank" /></a>
+  <a href="https://1337.ma/"><img src="https://img.shields.io/badge/1337-000000?style=for-the-badge&logo=1337&logoColor=white" alt="1337" target="_blank" /></a>
+  <a href="https://um6p.ma/"><img src="https://img.shields.io/badge/UM6P-F37021?style=for-the-badge&logo=um6p&logoColor=white" alt="UM6P" target="_blank" /></a>
 </p>
 
 <!-- Row 2: profile info -->
