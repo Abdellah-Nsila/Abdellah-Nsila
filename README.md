@@ -75,4 +75,4 @@ I'm a Full Stack Developer and a Software Engineering student at **1337**, the c
 
 ## Contact
 
-**Email:** [abdellahnsila42@gmail.com](mailto:abdellahnsila42@gmail.com) &nbsp;|&nbsp; **LinkedIn:** [abdellah-nsila](https://linkedin.com/in/abdellah-nsila-149ba0439) &nbsp;|&nbsp; **Portfolio:** [portfolio-eight-mocha-82.vercel.app](https://portfolio-eight-mocha-82.vercel.app/)
+**Email:** [abdellahnsila42@gmail.com](mailto:abdellahnsila42@gmail.com) &nbsp;|&nbsp; **LinkedIn:** [abdellah-nsila](https://linkedin.com/in/abdellah-nsila-149ba0439) &nbsp;|&nbsp; **Portfolio:** [portfoliop](https://portfolio-eight-mocha-82.vercel.app/)
