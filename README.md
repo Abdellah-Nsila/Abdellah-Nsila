@@ -27,12 +27,6 @@
   <a href="https://github.com/Abdellah-Nsila?tab=followers"><img src="https://img.shields.io/github/followers/Abdellah-Nsila?label=Followers&style=flat-square&color=E34F26" alt="GitHub followers" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdellah-nsila&theme=radical" alt="GitHub trophies" />
-  </a>
-</p>
-
 ---
 
 ## About
@@ -60,14 +54,20 @@ I'm a Full Stack Developer and a Software Engineering student at **1337**, the c
 ## GitHub Statistics
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=abdellah-nsila&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-nsila&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=abdellah-nsila&show_icons=true&locale=en&theme=radical&hide_border=true&ignore_cache=true" alt="GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-nsila&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&ignore_cache=true" alt="Top languages" />
 </p>
 
 <p align="center">
   <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=abdellah-nsila&theme=radical&hide_border=true" alt="GitHub streak" />
   <a href="https://github.com/Abdellah-Nsila">
     <img height="175" src="https://badge.mediaplus.ma/greenbinary/abnsila" alt="42 badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-repo.vercel.app/?username=abdellah-nsila&theme=radical" alt="GitHub trophies" />
   </a>
 </p>
 
