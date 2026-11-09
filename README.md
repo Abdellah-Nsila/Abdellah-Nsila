@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300px" src="https://github.com/Abdellah-Nsila/Abdellah-Nsila/blob/main/profile.gif" alt="abdellah-nsila banner" />
+  <img height="300px" src="https://github.com/Abdellah-Nsila/Abdellah-Nsila/blob/main/profile.gif" alt=" " />
 </p>
 
 <h1 align="center">Abdellah Nsila</h1>
@@ -54,20 +54,23 @@ I'm a Full Stack Developer and a Software Engineering student at **1337**, the c
 ## GitHub Statistics
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=abdellah-nsila&show_icons=true&locale=en&theme=radical&hide_border=true&ignore_cache=true" alt="GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-nsila&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&ignore_cache=true" alt="Top languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=abdellah-nsila&show_icons=true&locale=en&theme=radical&hide_border=true&ignore_cache=true" alt=" " />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellah-nsila&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&ignore_cache=true" alt=" " />
 </p>
 
 <p align="center">
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=abdellah-nsila&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=abdellah-nsila&theme=radical&hide_border=true" alt=" " />
+</p>
+
+<p align="center">
   <a href="https://github.com/Abdellah-Nsila">
-    <img height="175" src="https://badge.mediaplus.ma/greenbinary/abnsila" alt="42 badge" />
+    <img height="175" src="https://badge.mediaplus.ma/greenbinary/abnsila" alt=" " />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-repo.vercel.app/?username=abdellah-nsila&theme=radical" alt="GitHub trophies" />
+    <img src="https://github-profile-repo.vercel.app/?username=abdellah-nsila&theme=onedark&column=5&row=1&margin-w=15" alt=" " />
   </a>
 </p>
 
